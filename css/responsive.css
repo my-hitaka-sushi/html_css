@@ -107,4 +107,8 @@
       -webkit-text-stroke-color: #000000;
       -webkit-text-stroke-width: 1px;
   }
+  .shop-item-image {
+    height: 250px;
+    width: 345px;
+}
   }
